@@ -74,6 +74,6 @@ docker-compose logs -f --tail 50 nginx
 
 PhpMyAdmin & MySQL database only work in `local` version. Don't forget to start container.
 
-* [Main page (ReactJS)](http://courselab.com)
-* [Main page (Symfony)](http://courselab.com/api)
-* [PhpMyAdmin](http://courselab.com:8080)
+* [Main page (ReactJS)](https://courselab.com)
+* [Main page (Symfony)](https://courselab.com/api)
+* [PhpMyAdmin](https://courselab.com:8080)
