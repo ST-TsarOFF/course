@@ -69,6 +69,23 @@ For NGINX container use:
 docker-compose logs -f --tail 50 nginx
 ```
 
+#### Execute containers
+
+For FRONTEND container use:
+```text
+docker-compose exec frontend
+```
+
+For API container use:
+```text
+docker-compose exec api
+```
+
+For NGINX container use:
+```text
+docker-compose exec nginx
+```
+
 
 #### In browser
 
