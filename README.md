@@ -1,2 +1,2 @@
 # course
-# course Learning docker / docker-compose (Nginx, MySQL, React, Symfony)
+Course Learning docker / docker-compose (Nginx, MySQL, React, Symfony)
